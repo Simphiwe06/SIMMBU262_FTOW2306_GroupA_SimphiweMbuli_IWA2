@@ -1,4 +1,4 @@
-# JavaScript Fundamentals Knowledge Check Repository
+# JavaScript Fundamentals Knowledge Check 
 
 This repository serves as a compilation of responses to questions centered around Module 2: What is JavaScript?. It provides a platform for documenting and sharing insights gained from the module. 
 
